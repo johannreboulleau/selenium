@@ -1,4 +1,6 @@
-POC sur Selenium
+<h1>POC sur Selenium</h1>
+
+Ce readme est à destination personnelle. 
 
 Pré-requis :
  - installation du driver pour Firefox (geckodriver https://github.com/mozilla/geckodriver/releases) : Selenium pour communiquer avec Firefox a besoin de drivers
